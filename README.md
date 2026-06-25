@@ -266,8 +266,3 @@ On the first startup:
 * **Async Programming:** asyncio
 * **Version Control:** Git & GitHub
 
----
-
-# 📄 License
-
-This project is open-source and available under the **MIT License**.
