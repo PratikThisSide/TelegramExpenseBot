@@ -1,6 +1,6 @@
 import os
 
-TOKEN = os.getenv("BOT_TOKEN", "8738888218:AAGGMik9GAlQichRYt3SwTpJdalphNWcMOQ")
+TOKEN = os.getenv("BOT_TOKEN", "PASTE YOUR TELEGRAM BOT TOKEN HERE")
 DB_PATH = os.getenv("DB_PATH", os.path.join(os.path.dirname(__file__), "expenses_v2.db"))
 TIMEZONE = "Asia/Kolkata"
 DAILY_REMINDER_DEFAULT_TIME = "21:00"
