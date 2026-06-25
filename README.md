@@ -1,7 +1,5 @@
 
-<img width="1198" height="1034" alt="{B72ECC4E-7185-44BB-845B-7448B2F01C37}" src="https://github.com/user-attachments/assets/fe1af2f2-5a09-4e5c-a15b-ed560384aed7" />
-<img width="1180" height="1034" alt="{43B7062E-3D1F-4706-831F-69BB493421AC}" src="https://github.com/user-attachments/assets/8870d35b-f496-4918-9242-3acb529ef830" />
-<img width="1184" height="1031" alt="{6EC08317-EB77-4812-AB34-6BFCAFA3178D}" src="https://github.com/user-attachments/assets/eee3d78c-2c3a-4b83-b6d1-b4e5943101df" />
+
 
 # 📊 Expense Analyzer Telegram Bot
 
@@ -32,27 +30,27 @@ A preview of the bot's interface and its core features.
 
 ## 🖼️ Screenshot 1 – Main Dashboard
 
-![Main Dashboard](<img width="1172" height="993" alt="{8346C174-7753-4967-A0BC-005ECFF5B92F}" src="https://github.com/user-attachments/assets/afe1f680-d7f8-4eba-9df3-28a9a754aa53" />)
+![Main Dashboard] <img width="1172" height="993" alt="{8346C174-7753-4967-A0BC-005ECFF5B92F}" src="https://github.com/user-attachments/assets/afe1f680-d7f8-4eba-9df3-28a9a754aa53" />
 
 ---
 
 ## 🖼️ Screenshot 2
 
-![Expense Tracking](<img width="1198" height="1034" alt="{B72ECC4E-7185-44BB-845B-7448B2F01C37}" src="https://github.com/user-attachments/assets/fe1af2f2-5a09-4e5c-a15b-ed560384aed7" />
+![Expense Tracking] <img width="1198" height="1034" alt="{B72ECC4E-7185-44BB-845B-7448B2F01C37}" src="https://github.com/user-attachments/assets/fe1af2f2-5a09-4e5c-a15b-ed560384aed7" />
 )
 
 ---
 
 ## 🖼️ Screenshot 3 – Analytics
 
-![Analytics & Reports](<img width="1180" height="1034" alt="{43B7062E-3D1F-4706-831F-69BB493421AC}" src="https://github.com/user-attachments/assets/8870d35b-f496-4918-9242-3acb529ef830" />
+![Analytics & Reports] <img width="1180" height="1034" alt="{43B7062E-3D1F-4706-831F-69BB493421AC}" src="https://github.com/user-attachments/assets/8870d35b-f496-4918-9242-3acb529ef830" />
 )
 
 ---
 
 ## 🖼️ Screenshot 4 – Reports
 
-![Budget & Achievements](<img width="1184" height="1031" alt="{6EC08317-EB77-4812-AB34-6BFCAFA3178D}" src="https://github.com/user-attachments/assets/eee3d78c-2c3a-4b83-b6d1-b4e5943101df" />
+![Budget & Achievements] <img width="1184" height="1031" alt="{6EC08317-EB77-4812-AB34-6BFCAFA3178D}" src="https://github.com/user-attachments/assets/eee3d78c-2c3a-4b83-b6d1-b4e5943101df" />
 )
 
 ---
